@@ -1,0 +1,19 @@
+Rouge clair		#e52b38
+
+Rouge foncé		#BF242E
+
+Bleu clair		#0070b8
+
+Bleu foncé		#003E66
+
+Vert clair		#49c651
+
+Vert foncé 		#337F33
+
+Gris clair		#CCCCCC  alpha 0.75
+
+Gris foncé 		#545454
+
+Blanc alter		#EFEFEF
+
+Noir alter		#191919
